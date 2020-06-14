@@ -1,0 +1,330 @@
+price/nedan/56/2
+shopping/kaimono/44/1
+expensive/takai/42/1
+chip/yasui/60/2
+to buy/kaimasu/65/4
+newspaper/shinbun/62/3
+book/hon/41/1
+interesting/omoshiroi/58/3
+to read/yomimasu/86/6
+meat/niku/39/1
+fish/sakana/43/2
+vegetables/yasai/44/1
+like/suki/46/1
+dislike/kirai/59/6
+to eat/tabemasu/41/1
+vending machine/hanbaiki/48/1
+to drink/nomimasu/74/3
+cold (food)/tsumetai/40/1
+hot/atsui/39/1
+meeting/kaigi/41/1
+job/shigoto/90/4
+company/kaisha/36/1
+free (not busy)/hima/42/1
+kitchen/daidokoro/130/9
+home/uchi/40/1
+garden/niwa/47/1
+child/kodomo/60/2
+family/kazoku/169/21
+to wear/kimasu/92/6
+underwear/shitagi/136/10
+clothes/yoofuku/60/3
+big/ookii/41/1
+small/chiisai/77/7
+foods (dish)/ryoori/40/1
+to cook/tsukurimasu/83/4
+zanič/mazui/65/4
+spicy/karai/41/4
+sweet/amai/36/1
+bitter/nigai/136/14
+sour/suppai/85/4
+salty/shiokarai/95/6
+salt/shio/44/2
+here/koko/38/1
+there/soko/53/2
+red/akai/41/1
+blue/aoi/36/1
+to meet/au/46/2
+picture/e/42/1
+autumn/aki/42/1
+chair/isu/51/2
+world/sekai/38/1
+lie/uso/71/3
+before eating/itadakimasu/46/2
+after eating/gochisoosama/55/3
+what's your country?/o-kuni wa dochira desu ka/50/2
+South Korea/kankoku/50/2
+China/chuugoku/56/2
+England/igirisu/41/1
+You are welcome/dooitashimashite/35/2
+smem?/i desu ka/41/3
+left/hidari/51/2
+up/ue/54/2
+down/shita/59/3
+right/migi/67/3
+north/kita/37/1
+south/minami/51/2
+east/higashi/33/1
+west/nishi/33/1
+breakfast/asagohan/48/3
+lunch/hirugohan/42/2
+dinner/bangohan/49/2
+meal/gohan/36/1
+sidedish/okazu/99/9
+egg/tamago/58/2
+milk/gyuunyuu/69/4
+tree/ki/34/1
+cold/samui/37/1
+winter/fuyu/33/1
+spring/haru/65/4
+summer/natsu/33/1
+fine weather/hare/64/3
+cloudy/kumori/89/6
+rain/ame/37/1
+weather/tenki/40/1
+umbrella/kasa/30/1
+snow/yuki/50/2
+bicycle/jitensha/37/1
+intersection/koosaten/115/11
+street,way/michi/55/5
+road,streat/dooro/62/7
+semafor/shingoo/76/5
+take a road/toorimasu/82/5
+to turn/magarimasu/84/6
+friend/tomodachi/45/3
+money/okane/71/4
+cow/ushi/47/3
+station/eki/34/1
+shell/kai/51/4
+drum/taiko/82/6
+hand/te/31/1
+shoe/kutsu/33/1
+crab/kani/81/6
+dog/inu/56/3
+cat/neko/57/3
+bridge/hashi/28/1
+fire/hi/44/2
+wall/hei/59/3
+star/hoshi/65/3
+teacher/kyooshi/55/9
+student/gakusei/57/4
+doctor/isha/81/5
+researcher/kenkyuu-in/51/3
+mouth/kuchi/66/3
+tomorrow/ashita/48/2
+mouth/kuchi/52/2
+before yesterday/ototoi/42/4
+ship/fune/35/1
+flower/hana/47/2
+bone/hone/41/1
+horse/uma/70/7
+ear/mimi/31/1
+insect/mushi/53/3
+eye/me/44/2
+cloud/kumo/26/1
+mountain/yama/33/1
+monkey/saru/48/2
+cloth/kire/71/5
+cherry blossoms/sakura/36/1
+castle/shiro/59/5
+river/kawa/45/2
+head/atama/37/2
+sea/umi/40/2
+dream/yume/54/3
+heart/kokoro/42/2
+glasses/megane/40/2
+key/kagi/41/2
+apple/ringo/34/1
+map/chizu/27/1
+wind/kaze/69/5
+window/mado/40/2
+house/ie/23/2
+table/tsukue/45/2
+magazin/zasshi/60/6
+watch/tokei/27/1
+moday/getsuyoobi/49/3
+tuesday/kayoobi/50/3
+wednesday/suiyoobi/40/5
+thursday/mokuyoobi/64/5
+friday/kinyoobi/41/2
+saturday/doyoobi/61/5
+sunday/nichiyoobi/34/2
+ticket/kippu/25/1
+shoulder/kata/41/2
+face/kao/43/3
+pencil/enpitsu/62/4
+bag/kaban/23/1
+town/machi/59/3
+heavy/omoi/56/6
+short/mijikai/49/5
+close/chikai/46/7
+difficult/muzukashii/57/6
+fruit/kudamono/35/2
+telephone/denwa/44/3
+shrimp/ebi/41/3
+soap/sekken/48/7
+yellow/kiiroi/60/12
+white/shiroi/49/5
+black/kuroi/57/9
+green/midori/54/5
+blood/chi/37/2
+injury,wound/kega/77/10
+to hurt/itai/71/11
+airport/kuukoo/43/8
+airplane,flight/hikooki/41/5
+car/jidoosha/22/2
+driver's license/menkyo/66/10
+paper/kami/31/3
+far/tooi/37/3
+air/kuuki/37/5
+shirt/shatsu/35/2
+building/biru/27/1
+which (with noun)/dono/34/5
+which/dore/28/2
+who/dare/20/1
+oil/abura/65/10
+to give/agemasu/39/5
+to open/akemasu/34/3
+new/atarashii/28/2
+warm/atatakai/48/7
+pig/buta/33/2
+old/furui/40/4
+beef/gyuuniku/20/3
+nose/hana/21/1
+strong/tsuyoi/30/2
+cute/kawaii/26/1
+long/nagai/27/4
+light/karui/56/17
+busy/isogashii/26/3
+loud/urusai/54/7
+quiet/shizuka/26/3
+dirty/kitanai/37/3
+room/heya/26/2
+and (sentances)/soshite/27/2
+person/hito/21/1
+finger/yubi/25/2
+skin/hada/48/12
+shugar/satoo/32/4
+night/yoru/21/3
+sun/taiyoo/32/5
+moon/tsuki/25/4
+rope/nawa/41/6
+train/densha/22/1
+good/ii/27/2
+bad/warui/37/5
+low/hikui/24/4
+easy/yasashii/25/2
+beautiful-clean/kirei/28/3
+convinient/benri/16/1
+nice/suteki/33/5
+attractive/kakkoii/28/6
+there (far)/asoko/14/1
+p.m./gogo/16/1
+a.m./gosen/20/3
+you/anata/14/1
+in front/mae/25/2
+behind/ushiro/18/1
+outside/soto/30/4
+next to/tonari/25/2
+between/aida/23/2
+other side/mukoo/25/5
+close to/soba/30/7
+in/naka/31/5
+hospital/byooin/20/3
+always/itsumo/19/2
+sometimes/tokidoki/15/1
+park/kooen/32/4
+kind/shinsetsu/44/11
+enjoyable/tanoshii/39/7
+wallet/saifu/20/1
+to go/ikimasu/11/1
+to come/kimasu/16/1
+to return/kaerimasu/27/3
+when/itsu/16/1
+go to bed/nemasu/19/2
+to wake up/okimasu/23/2
+to work/hatarakimasu/30/4
+to listen/kikimasu/19/2
+music/ongaku/28/5
+to see,to look/mimasu/16/2
+to speak/hanashimasu/30/6
+to write/kakimasu/26/2
+to close/shimemasu/27/4
+to do/shimasu/14/1
+day after tomorrow/asatte/29/8
+around (time)/goro/18/1
+somewhere,anywhere/dokoka/20/4
+tonight/konban/13/1
+nowhere/dokomo/10/1
+to study/benkyooshimasu/15/1
+color/iro/10/1
+happy/ureshii/23/4
+sad/kanashii/35/12
+how awful/hidoi/48/12
+i'm surprised/bikkurishita/37/9
+congratulations/omedetoo/17/3
+yeey/yatta/21/5
+straight/massugu/36/10
+animals/doobutsu/21/4
+bird/tori/14/1
+weekend/shuumatsu/32/6
+next week/raishuu/18/2
+this week/konshuu/19/2
+last week/senshuu/17/2
+to take (a picture, copy)/torimasu/16/2
+photo/shashin/22/5
+together/issho ni/37/7
+to turn on/tsukemasu/19/6
+to turn off/keshimasu/29/7
+to wash/araimasu/29/9
+to use/tsukaimasu/32/13
+letter/tegami/14/2
+this year/kotoshi/16/2
+often/yoku/28/12
+to withdraw/oroshimasu/20/3
+after/ato/38/14
+before/mae/14/3
+something/nani ka/23/5
+nothing/nani mo/23/5
+postoffice/yuubinkyoku/14/5
+change (money)/otsuri/14/5
+stamp/kitte/10/2
+1st platform/ichibansen/10/3
+more/motto/11/2
+in total/zenbu de/11/3
+on foot/aruite/5/1
+around (quantity)/gurai/5/1
+subway/chikatetsu/7/1
+birthsday/tanyoobi/10/2
+a lot/takusan,ooi/19/17
+a little/sukoshi,sukunai/11/7
+famous/yuumee/10/5
+to rest/yasumimasu/11/4
+to take a walk/sanpo o shimasu/11/3
+to have a meal/shokuji o shimasu/9/4
+early/hayai/10/3
+late/osoi/12/4
+almost all/hotondo/11/8
+both/ryooho/14/8
+place __ arimasu (iremasu)/ni/6/1
+business trip/shucchoo/7/4
+we/watashitachi/11/2
+shigoto __ ikimasu/ni/5/1
+why/dooshite/7/2
+seldom/amari/8/2
+never/zenzen/5/2
+boring/tsumaranai/9/5
+be good at/joozu/8/2
+be bad at/heta/4/1
+hobby/shumi/5/1
+next time/kondo/15/10
+to know/shirimasu/4/2
+to think/omoimasu/10/2
+adj1 __ adj2/kute/9/3
+you (plural)/anatatachi/7/1
+to wish some thing (want)/hoshii/7/2
+to loose/nakushimasu/12/9
+to memorize/oboemasu/12/11
+to forget/wasuremasu/15/7
+to bring/moteikimasu/10/4
+soon/sugu/6/3
